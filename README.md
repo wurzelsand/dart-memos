@@ -1,5 +1,5 @@
 # dart-memos
 
-just for me
+Just for me
 
 [Wiki](../../wiki)
